@@ -1,5 +1,4 @@
-# Shadows-Of-Valor
-text-based adventure game coded in Python. 
+###Shadows-Of-Valor###
 
 Shadows of Valor is a Python text-based adventure game built around player choice, combat mechanics, and progression systems.
 
